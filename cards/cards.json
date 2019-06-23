@@ -1,0 +1,732 @@
+{
+    "cards": [
+        {
+            "id": "76184692",
+            "name": "Hitotsu-Me Giant",
+            "type": "Normal Monster",
+            "desc": "A one-eyed behemoth with thick, powerful arms made for delivering punishing blows.",
+            "atk": "1200",
+            "def": "1000",
+            "level": "4",
+            "race": "Beast-Warrior",
+            "attribute": "EARTH",
+            "card_images": [
+                {
+                    "id": "76184692",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/76184692.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/76184692.jpg"
+                }
+            ]
+        },
+        {
+            "id": "46986414",
+            "name": "Dark Magician",
+            "type": "Normal Monster",
+            "desc": "The ultimate wizard in terms of attack and defense.",
+            "atk": "2500",
+            "def": "2100",
+            "level": "7",
+            "race": "Spellcaster",
+            "attribute": "DARK",
+            "archetype": "Dark Magician",
+            "card_images": [
+                {
+                    "id": "46986414",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/46986414.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/46986414.jpg"
+                },
+                {
+                    "id": "46986415",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/46986415.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/46986415.jpg"
+                },
+                {
+                    "id": "46986416",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/46986416.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/46986416.jpg"
+                },
+                {
+                    "id": "46986417",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/46986417.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/46986417.jpg"
+                },
+                {
+                    "id": "46986418",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/46986418.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/46986418.jpg"
+                },
+                {
+                    "id": "46986419",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/46986419.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/46986419.jpg"
+                },
+                {
+                    "id": "36996508",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/36996508.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/36996508.jpg"
+                },
+                {
+                    "id": "46986420",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/46986420.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/46986420.jpg"
+                },
+                {
+                    "id": "46986421",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/46986421.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/46986421.jpg"
+                }
+            ]
+        },
+        {
+            "id": "6368038",
+            "name": "Gaia The Fierce Knight",
+            "type": "Normal Monster",
+            "desc": "A knight whose horse travels faster than the wind. His battle-charge is a force to be reckoned with.",
+            "atk": "2300",
+            "def": "2100",
+            "level": "7",
+            "race": "Warrior",
+            "attribute": "EARTH",
+            "card_images": [
+                {
+                    "id": "6368038",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/6368038.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/6368038.jpg"
+                },
+                {
+                    "id": "6368039",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/6368039.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/6368039.jpg"
+                }
+            ]
+        },
+        {
+            "id": "40374923",
+            "name": "Mammoth Graveyard",
+            "type": "Normal Monster",
+            "desc": "A mammoth that protects the graves of its pack and is absolutely merciless when facing grave-robbers.",
+            "atk": "1200",
+            "def": "800",
+            "level": "3",
+            "race": "Dinosaur",
+            "attribute": "EARTH",
+            "card_images": [
+                {
+                    "id": "40374923",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/40374923.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/40374923.jpg"
+                }
+            ]
+        },
+        {
+            "id": "90357090",
+            "name": "Silver Fang",
+            "type": "Normal Monster",
+            "desc": "A snow wolf that's beautiful to the eye, but absolutely vicious in battle.",
+            "atk": "1200",
+            "def": "800",
+            "level": "3",
+            "race": "Beast",
+            "attribute": "EARTH",
+            "card_images": [
+                {
+                    "id": "90357090",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/90357090.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/90357090.jpg"
+                }
+            ]
+        },
+        {
+            "id": "22026707",
+            "name": "Curtain of the Dark Ones",
+            "type": "Normal Monster",
+            "desc": "A curtain that a spellcaster made, it is said to raise a dark power.",
+            "atk": "600",
+            "def": "500",
+            "level": "2",
+            "race": "Spellcaster",
+            "attribute": "DARK",
+            "card_images": [
+                {
+                    "id": "22026707",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/22026707.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/22026707.jpg"
+                }
+            ]
+        },
+        {
+            "id": "46457856",
+            "name": "Tomozaurus",
+            "type": "Normal Monster",
+            "desc": "Small but vicious, this monster even attacks its own kind.",
+            "atk": "500",
+            "def": "400",
+            "level": "2",
+            "race": "Dinosaur",
+            "attribute": "EARTH",
+            "card_images": [
+                {
+                    "id": "46457856",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/46457856.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/46457856.jpg"
+                }
+            ]
+        },
+        {
+            "id": "9159938",
+            "name": "Dark Gray",
+            "type": "Normal Monster",
+            "desc": "Entirely gray, this beast has rarely been seen by mortal eyes.",
+            "atk": "800",
+            "def": "900",
+            "level": "3",
+            "race": "Beast",
+            "attribute": "EARTH",
+            "card_images": [
+                {
+                    "id": "9159938",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/9159938.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/9159938.jpg"
+                }
+            ]
+        },
+        {
+            "id": "90963488",
+            "name": "Nemuriko",
+            "type": "Normal Monster",
+            "desc": "A child-like creature that controls a sleep fiend to beckon enemies into eternal slumber.",
+            "atk": "800",
+            "def": "700",
+            "level": "3",
+            "race": "Spellcaster",
+            "attribute": "DARK",
+            "card_images": [
+                {
+                    "id": "90963488",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/90963488.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/90963488.jpg"
+                }
+            ]
+        },
+        {
+            "id": "52800428",
+            "name": "Fiend's Hand",
+            "type": "Normal Monster",
+            "desc": "Arms that reach out from the Swamp of Chaos to drag down the damned.",
+            "atk": "600",
+            "def": "600",
+            "level": "2",
+            "race": "Zombie",
+            "attribute": "DARK",
+            "card_images": [
+                {
+                    "id": "52800428",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/52800428.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/52800428.jpg"
+                }
+            ]
+        },
+        {
+            "id": "53581214",
+            "name": "Fire Reaper",
+            "type": "Normal Monster",
+            "desc": "A reaper with a flaming arrow that burns an enemy to a crisp.",
+            "atk": "700",
+            "def": "500",
+            "level": "2",
+            "race": "Zombie",
+            "attribute": "DARK",
+            "card_images": [
+                {
+                    "id": "53581214",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/53581214.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/53581214.jpg"
+                }
+            ]
+        },
+        {
+            "id": "53293545",
+            "name": "Firegrass",
+            "type": "Normal Monster",
+            "desc": "A fire-breathing plant found growing near volcanoes.",
+            "atk": "700",
+            "def": "600",
+            "level": "2",
+            "race": "Plant",
+            "attribute": "EARTH",
+            "card_images": [
+                {
+                    "id": "53293545",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/53293545.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/53293545.jpg"
+                }
+            ]
+        },
+        {
+            "id": "64511793",
+            "name": "Eyearmor",
+            "type": "Normal Monster",
+            "desc": "This warrior transforms into various creatures to confuse enemies in battle.",
+            "atk": "600",
+            "def": "500",
+            "level": "2",
+            "race": "Warrior",
+            "attribute": "EARTH",
+            "card_images": [
+                {
+                    "id": "64511793",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/64511793.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/64511793.jpg"
+                }
+            ]
+        },
+        {
+            "id": "9430387",
+            "name": "LaLa Li-Oon",
+            "type": "Normal Monster",
+            "desc": "An electric cloud creature, its acid rain makes it very dangerous.",
+            "atk": "600",
+            "def": "600",
+            "level": "2",
+            "race": "Thunder",
+            "attribute": "WIND",
+            "card_images": [
+                {
+                    "id": "9430387",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/9430387.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/9430387.jpg"
+                }
+            ]
+        },
+        {
+            "id": "75356564",
+            "name": "Petit Dragon",
+            "type": "Normal Monster",
+            "desc": "A very small dragon known for its vicious attacks.",
+            "atk": "600",
+            "def": "700",
+            "level": "2",
+            "race": "Dragon",
+            "attribute": "WIND",
+            "card_images": [
+                {
+                    "id": "75356564",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/75356564.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/75356564.jpg"
+                }
+            ]
+        },
+        {
+            "id": "75889523",
+            "name": "Archfiend Marmot of Nefariousness",
+            "type": "Normal Monster",
+            "desc": "An air marmot that has a nefarious horn and wings. It attacks by throwing acorns.",
+            "atk": "400",
+            "def": "600",
+            "level": "2",
+            "race": "Beast",
+            "attribute": "EARTH",
+            "card_images": [
+                {
+                    "id": "75889523",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/75889523.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/75889523.jpg"
+                }
+            ]
+        },
+        {
+            "id": "38142739",
+            "name": "Petit Angel",
+            "type": "Normal Monster",
+            "desc": "A quick-moving and tiny fairy that's very difficult to hit.",
+            "atk": "600",
+            "def": "900",
+            "level": "3",
+            "race": "Fairy",
+            "attribute": "LIGHT",
+            "card_images": [
+                {
+                    "id": "38142739",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/38142739.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/38142739.jpg"
+                }
+            ]
+        },
+        {
+            "id": "39175982",
+            "name": "Winged Cleaver",
+            "type": "Normal Monster",
+            "desc": "Few can withstand the scythe-like arms of this dangerous creature.",
+            "atk": "700",
+            "def": "700",
+            "level": "2",
+            "race": "Insect",
+            "attribute": "EARTH",
+            "card_images": [
+                {
+                    "id": "39175982",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/39175982.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/39175982.jpg"
+                }
+            ]
+        },
+        {
+            "id": "15510988",
+            "name": "Thunder Kid",
+            "type": "Normal Monster",
+            "desc": "This monster stores electricity within his body, and can unleash it with catastrophic power.",
+            "atk": "700",
+            "def": "600",
+            "level": "2",
+            "race": "Thunder",
+            "attribute": "WIND",
+            "card_images": [
+                {
+                    "id": "15510988",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/15510988.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/15510988.jpg"
+                }
+            ]
+        },
+        {
+            "id": "53832650",
+            "name": "Meotoko",
+            "type": "Normal Monster",
+            "desc": "Dis big ol' guy wit' a big ol' eye shoots a nasty ray beam right atcha!",
+            "atk": "700",
+            "def": "600",
+            "level": "2",
+            "race": "Beast",
+            "attribute": "EARTH",
+            "card_images": [
+                {
+                    "id": "53832650",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/53832650.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/53832650.jpg"
+                }
+            ]
+        },
+        {
+            "id": "15401633",
+            "name": "Kagemusha of the Blue Flame",
+            "type": "Normal Monster",
+            "desc": "Serving as a double for the Ruler of the Blue Flame, he's a master swordsman that wields a fine blade.",
+            "atk": "800",
+            "def": "400",
+            "level": "2",
+            "race": "Warrior",
+            "attribute": "EARTH",
+            "card_images": [
+                {
+                    "id": "15401633",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/15401633.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/15401633.jpg"
+                }
+            ]
+        },
+        {
+            "id": "46718686",
+            "name": "Hitodenchak",
+            "type": "Normal Monster",
+            "desc": "A rabid starfish that spits a lethal acid that can melt almost anything.",
+            "atk": "600",
+            "def": "700",
+            "level": "2",
+            "race": "Aqua",
+            "attribute": "WATER",
+            "card_images": [
+                {
+                    "id": "46718686",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/46718686.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/46718686.jpg"
+                }
+            ]
+        },
+        {
+            "id": "8783685",
+            "name": "Hourglass of Life",
+            "type": "Normal Monster",
+            "desc": "This creature grants power instead of shortening life.",
+            "atk": "700",
+            "def": "600",
+            "level": "2",
+            "race": "Fairy",
+            "attribute": "LIGHT",
+            "card_images": [
+                {
+                    "id": "8783685",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/8783685.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/8783685.jpg"
+                }
+            ]
+        },
+        {
+            "id": "84285623",
+            "name": "Haniwa",
+            "type": "Normal Monster",
+            "desc": "An earthen figure that protects the tomb of an ancient ruler.",
+            "atk": "500",
+            "def": "500",
+            "level": "2",
+            "race": "Rock",
+            "attribute": "EARTH",
+            "card_images": [
+                {
+                    "id": "84285623",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/84285623.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/84285623.jpg"
+                }
+            ]
+        },
+        {
+            "id": "8944575",
+            "name": "The Drdek",
+            "type": "Normal Monster",
+            "desc": "A bipedal eyeball that seldom misses an enemy with its lethal talons.",
+            "atk": "700",
+            "def": "800",
+            "level": "3",
+            "race": "Fiend",
+            "attribute": "DARK",
+            "card_images": [
+                {
+                    "id": "8944575",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/8944575.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/8944575.jpg"
+                }
+            ]
+        },
+        {
+            "id": "47695416",
+            "name": "Candle of Fate",
+            "type": "Normal Monster",
+            "desc": "Decides the fate of an opponent when the candle on its fingertip burns out.",
+            "atk": "600",
+            "def": "600",
+            "level": "2",
+            "race": "Fiend",
+            "attribute": "DARK",
+            "card_images": [
+                {
+                    "id": "47695416",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/47695416.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/47695416.jpg"
+                }
+            ]
+        },
+        {
+            "id": "15150371",
+            "name": "Archfiend Mirror",
+            "type": "Normal Monster",
+            "desc": "A wicked mirror that hypnotizes enemies, diverting attacks from their intended targets.",
+            "atk": "700",
+            "def": "600",
+            "level": "2",
+            "race": "Fiend",
+            "attribute": "DARK",
+            "card_images": [
+                {
+                    "id": "15150371",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/15150371.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/15150371.jpg"
+                }
+            ]
+        },
+        {
+            "id": "18710707",
+            "name": "The Furious Sea King",
+            "type": "Normal Monster",
+            "desc": "Grand King of the Seven Seas, he's able to summon massive tidal waves to drown the enemy.",
+            "atk": "800",
+            "def": "700",
+            "level": "3",
+            "race": "Aqua",
+            "attribute": "WATER",
+            "card_images": [
+                {
+                    "id": "18710707",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/18710707.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/18710707.jpg"
+                }
+            ]
+        },
+        {
+            "id": "15507080",
+            "name": "Sectarian of Secrets",
+            "type": "Normal Monster",
+            "desc": "This wizard worships the darkness, and is served by a sinister hand that drags its enemies into oblivion.",
+            "atk": "700",
+            "def": "500",
+            "level": "2",
+            "race": "Spellcaster",
+            "attribute": "DARK",
+            "card_images": [
+                {
+                    "id": "15507080",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/15507080.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/15507080.jpg"
+                }
+            ]
+        },
+        {
+            "id": "85705804",
+            "name": "Kurama",
+            "type": "Normal Monster",
+            "desc": "A vicious bird that attacks from the skies with its whip-like tail.",
+            "atk": "800",
+            "def": "800",
+            "level": "3",
+            "race": "Winged Beast",
+            "attribute": "WIND",
+            "card_images": [
+                {
+                    "id": "85705804",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/85705804.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/85705804.jpg"
+                }
+            ]
+        },
+        {
+            "id": "61854111",
+            "name": "Legendary Sword",
+            "type": "Spell Card",
+            "desc": "A Warrior-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+            "race": "Equip",
+            "card_images": [
+                {
+                    "id": "61854111",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/61854111.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/61854111.jpg"
+                }
+            ]
+        },
+        {
+            "id": "46009906",
+            "name": "Beast Fangs",
+            "type": "Spell Card",
+            "desc": "A Beast-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+            "race": "Equip",
+            "card_images": [
+                {
+                    "id": "46009906",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/46009906.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/46009906.jpg"
+                }
+            ]
+        },
+        {
+            "id": "15052462",
+            "name": "Violet Crystal",
+            "type": "Spell Card",
+            "desc": "A Zombie-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+            "race": "Equip",
+            "card_images": [
+                {
+                    "id": "15052462",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/15052462.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/15052462.jpg"
+                }
+            ]
+        },
+        {
+            "id": "91595718",
+            "name": "Book of Secret Arts",
+            "type": "Spell Card",
+            "desc": "A Spellcaster-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+            "race": "Equip",
+            "card_images": [
+                {
+                    "id": "91595718",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/91595718.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/91595718.jpg"
+                }
+            ]
+        },
+        {
+            "id": "77027445",
+            "name": "Power of Kaishin",
+            "type": "Spell Card",
+            "desc": "An Aqua-Type monster equipped with this card increases its ATK and DEF by 300 points.",
+            "race": "Equip",
+            "card_images": [
+                {
+                    "id": "77027445",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/77027445.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/77027445.jpg"
+                }
+            ]
+        },
+        {
+            "id": "53129443",
+            "name": "Dark Hole",
+            "type": "Spell Card",
+            "desc": "Destroy all monsters on the field.",
+            "race": "Normal",
+            "archetype": "Hole",
+            "card_images": [
+                {
+                    "id": "53129443",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/53129443.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/53129443.jpg"
+                }
+            ]
+        },
+        {
+            "id": "38199696",
+            "name": "Red Medicine",
+            "type": "Spell Card",
+            "desc": "Increase your Life Points by 500 points.",
+            "race": "Normal",
+            "card_images": [
+                {
+                    "id": "38199696",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/38199696.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/38199696.jpg"
+                }
+            ]
+        },
+        {
+            "id": "76103675",
+            "name": "Sparks",
+            "type": "Spell Card",
+            "desc": "Inflict 200 points of damage to your opponent's Life Points.",
+            "race": "Normal",
+            "card_images": [
+                {
+                    "id": "76103675",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/76103675.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/76103675.jpg"
+                }
+            ]
+        },
+        {
+            "id": "66788016",
+            "name": "Fissure",
+            "type": "Spell Card",
+            "desc": "Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied).",
+            "race": "Normal",
+            "card_images": [
+                {
+                    "id": "66788016",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/66788016.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/66788016.jpg"
+                }
+            ]
+        },
+        {
+            "id": "4206964",
+            "name": "Trap Hole",
+            "type": "Trap Card",
+            "desc": "When your opponent Normal or Flip Summons 1 monster with 1000 or more ATK: Target that monster; destroy that target.",
+            "race": "Normal",
+            "archetype": "Hole",
+            "card_images": [
+                {
+                    "id": "4206964",
+                    "image_url": "https://storage.googleapis.com/ygoprodeck.com/pics/4206964.jpg",
+                    "image_url_small": "https://storage.googleapis.com/ygoprodeck.com/pics_small/4206964.jpg"
+                }
+            ]
+        }
+    ]
+}
