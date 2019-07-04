@@ -11,6 +11,7 @@ type BotConfig struct {
 	BotPrefix           string
 	BotCardsListEnabled bool
 	CardsPath           string
+	GameName            string
 }
 
 var Config BotConfig

@@ -7,8 +7,7 @@ import (
 	"syscall"
 
 	"github.com/bwmarrin/discordgo"
-	"github.com/colbyleiske/yugioh-bot/cards"
-	"github.com/colbyleiske/yugioh-bot/commands"
+	"github.com/colbyleiske/yugioh-bot/card"
 	"github.com/colbyleiske/yugioh-bot/config"
 	"github.com/colbyleiske/yugioh-bot/eventhandler"
 )
@@ -17,10 +16,13 @@ import (
 func main() {
 
 	config.ReadConfig()
-	if err := cards.ReadCards(config.Config.CardsPath); err != nil {
+
+	memStore := &card.MemoryDatastore{}
+	if err := memStore.ReadCards(); err != nil {
 		log.Fatal(err) //don't bother running without cards
 	}
-	commands.SetupCommands(config.Config.BotPrefix, config.Config.BotCardsListEnabled)
+	cards := card.NewCards(memStore)
+	cards.SetupCommands()
 
 	// Create a new Discord session using the provided bot token.
 	dg, err := discordgo.New("Bot " + config.Config.BotToken)
@@ -36,13 +38,12 @@ func main() {
 		log.Fatal("error opening connection,", err)
 		return
 	}
+	defer dg.Close()
+	dg.UpdateStatus(0, config.Config.GameName)
 
 	// Wait here until CTRL-C or other term signal is received.
-	log.Println("Bot is now running.  Press CTRL-C to exit.")
+	log.Println("It's time to D-D-D-D-D-D-DUEL")
 	sc := make(chan os.Signal, 1)
 	signal.Notify(sc, syscall.SIGINT, syscall.SIGTERM, os.Interrupt, os.Kill)
 	<-sc
-
-	// Cleanly close down the Discord session.
-	dg.Close()
 }
