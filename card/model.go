@@ -7,7 +7,7 @@ import (
 )
 
 type Cards struct {
-	Datastore DAL
+	DAL DAL
 }
 
 //Use a datastore that holds all of the card data in memory. Later on we can implement a DBDatastore that calls from a DB or something
@@ -17,7 +17,7 @@ type MemoryDatastore struct {
 }
 
 func NewCards(dal DAL) Cards {
-	return Cards{Datastore: dal}
+	return Cards{DAL: dal}
 }
 
 //This is all fine for Vol. 1 cards. Later on it gets complicated, but I will add that as we go. Definitely want to start small here

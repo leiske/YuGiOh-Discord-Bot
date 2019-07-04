@@ -19,11 +19,12 @@ func (c *Cards) SetupCommands() {
 }
 
 func (c Cards) GetCardByIDOrNameCommand(s *discordgo.Session, i command.IncomingCommand) error {
-	card, err := c.Datastore.GetCardByIDOrName(i.Args[0])
+	card, err := c.DAL.GetCardByIDOrName(i.Args[0]) //we can grab the 0 index because it passed validation and has an argument there
 	if err != nil {
 		return err
 	}
 
+	//This does not check if it is a spell card or something
 	cardEmbed := &discordgo.MessageEmbed{
 		Title: card.Name,
 		Image: &discordgo.MessageEmbedImage{
