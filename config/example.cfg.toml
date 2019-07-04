@@ -1,0 +1,6 @@
+# Not complete and some of these may go away. 
+BotToken = "Discord API Token"
+BotPrefix = "y!"
+BotCardsListEnabled = true
+CardsPath = "cards/cards.json"
+GameName = "Yu-Gi-Oh Vol. 1"
